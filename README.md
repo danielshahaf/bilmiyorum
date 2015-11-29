@@ -12,7 +12,7 @@ This project answers that question, for German and over a dozen other
 languages.
 
 See index.html for the collection.  It's also available online, here:
-https://people.apache.org/~danielsh/bilmiyorum/
+https://home.apache.org/~danielsh/bilmiyorum/
 
 License
 =======
